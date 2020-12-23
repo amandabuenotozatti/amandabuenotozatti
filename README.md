@@ -7,7 +7,9 @@
 - 💻  I'm continuously looking for ways to self-improve
 </br>
 </br>
+
 ## My Development Stack 
+
 <img alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30"/>
 <img alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30"/>
 <img alt="JS" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" width="30"/>
