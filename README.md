@@ -20,5 +20,5 @@
 
 
 <a href="https://www.linkedin.com/in/amandabuenotozatti/"><img alt="Amanda's Linkedin" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="25"/>
-</a><a href="mailto:amandabuenotozatti@gmail.com"><img alt="Amanda's gmail" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="25"/></a>
+</a> <a href="mailto:amandabuenotozatti@gmail.com"><img alt="Amanda's gmail" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="25"/></a>
 
