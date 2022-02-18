@@ -2,7 +2,6 @@
 
 ## I'm a begginer Fullstack developer trying to survive this world!
 - 📚 Systems Analysis and Development Student
-- 🎮 Game development student in free time
 - ❤️ Passionate about coding
 - 💻 I'm continuously looking for ways to self-improve
 - 🚀 Procrastination, You shall not pass! 🧙
