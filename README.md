@@ -10,7 +10,8 @@
 
 ## My Development Stack 
 
-<img alt="java" src="https://emojis.slackmojis.com/emojis/images/1598512701/10313/java-logo.png?1598512701" width="30"/> <img alt="spring" src="https://emojis.slackmojis.com/emojis/images/1536564975/4642/spring.png?1536564975" width="30"/> <img alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30"/> <img alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30"/> <img alt="JS" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" width="30"/> <img alt="PostgreSQL" src="https://emojis.slackmojis.com/emojis/images/1450470347/198/postgresql.png?1450470347" width="30"/> <img alt="Python" src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="30"/> <img alt="GODOT" src="https://emojis.slackmojis.com/emojis/images/1573042010/7054/godot.png?1573042010" width="30"/>
+<img alt="java" src="https://emojis.slackmojis.com/emojis/images/1598512701/10313/java-logo.png?1598512701" width="30"/> <img alt="java" src="https://emojis.slackmojis.com/emojis/images/1536564975/4642/spring.png?1536564975" width="30"/> <img alt="springboot" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" width="30"/> <img alt="JS"
+src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="30"/>
 </br>
 </br>
 </br>
